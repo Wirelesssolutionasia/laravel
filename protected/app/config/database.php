@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'sximo291_stable',
-			'username'  => 'root',
-			'password'  => '',
+			'database'  => 'forge',
+			'username'  => 'forge',
+			'password'  => 'eqYYr5Lkj25JINSlUXR6',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',

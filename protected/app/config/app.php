@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' 					=> 'http://127.0.0.1/yourapp',
+	'url' 					=> 'http://skynetdream.com/',
 	
 
 	/*
